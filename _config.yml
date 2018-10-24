@@ -5,13 +5,11 @@ description: A blog about lorem ipsum dolor sit amet
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Sanskar Jethi
-user_description: Full Stack Developer | GSoC'18 Intern | GCI'17 Mentor |@fossasia
+username: Pranay Chaplot
+user_description: Full Stack Developer
 user_title: Software Developer
-email: sansyrox@gmail.com
-twitter_username: sansyrox
-github_username:  stealthanthrax
-gplus_username:  lorem_ipsum
+email: pranay.chaplot@gmail.com
+github_username:  PranayChaplot
 
 # Google-analytics
 google-analytics:
